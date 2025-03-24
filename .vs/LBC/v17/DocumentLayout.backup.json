@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\SM4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\SM4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\NTRU.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\NTRU.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\API.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\API.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\API.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\API.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_ECB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\LBC_ECB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_CBC.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\LBC_CBC.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\myRandom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\myRandom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\myRandom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\myRandom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_CBC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\LBC_CBC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_ECB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\LBC_ECB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\NTRU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\NTRU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\SM3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\SM3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C2AEB5B-0D21-4C27-9893-6FDD4BA233DC}|LBC\\LBC.vcxproj|solutionrelative:LBC\\LBC.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\API.cpp",
+              "RelativeDocumentMoniker": "LBC\\API.cpp",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\API.cpp",
+              "RelativeToolTip": "LBC\\API.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T07:38:31.45Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "myRandom.h",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\myRandom.h",
+              "RelativeDocumentMoniker": "LBC\\myRandom.h",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\myRandom.h",
+              "RelativeToolTip": "LBC\\myRandom.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T08:35:14.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "myRandom.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\myRandom.cpp",
+              "RelativeDocumentMoniker": "LBC\\myRandom.cpp",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\myRandom.cpp",
+              "RelativeToolTip": "LBC\\myRandom.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T08:31:27.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LBC_CBC.h",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_CBC.h",
+              "RelativeDocumentMoniker": "LBC\\LBC_CBC.h",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_CBC.h",
+              "RelativeToolTip": "LBC\\LBC_CBC.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T08:31:18.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NTRU.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\NTRU.cpp",
+              "RelativeDocumentMoniker": "LBC\\NTRU.cpp",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\NTRU.cpp",
+              "RelativeToolTip": "LBC\\NTRU.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T08:06:09.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\test.cpp",
+              "RelativeDocumentMoniker": "LBC\\test.cpp",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\test.cpp",
+              "RelativeToolTip": "LBC\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T07:36:42.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SM3.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM3.cpp",
+              "RelativeDocumentMoniker": "LBC\\SM3.cpp",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM3.cpp",
+              "RelativeToolTip": "LBC\\SM3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T17:05:41.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SM4.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM4.cpp",
+              "RelativeDocumentMoniker": "LBC\\SM4.cpp",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM4.cpp",
+              "RelativeToolTip": "LBC\\SM4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T11:27:09.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LBC_ECB.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_ECB.cpp",
+              "RelativeDocumentMoniker": "LBC\\LBC_ECB.cpp",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_ECB.cpp",
+              "RelativeToolTip": "LBC\\LBC_ECB.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAD4v5YAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T10:35:41.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API.h",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\API.h",
+              "RelativeDocumentMoniker": "LBC\\API.h",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\API.h",
+              "RelativeToolTip": "LBC\\API.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T11:09:02.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NTRU.h",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\NTRU.h",
+              "RelativeDocumentMoniker": "LBC\\NTRU.h",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\NTRU.h",
+              "RelativeToolTip": "LBC\\NTRU.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T07:36:37.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SM4.h",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM4.h",
+              "RelativeDocumentMoniker": "LBC\\SM4.h",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM4.h",
+              "RelativeToolTip": "LBC\\SM4.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T11:26:53.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LBC_CBC.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_CBC.cpp",
+              "RelativeDocumentMoniker": "LBC\\LBC_CBC.cpp",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_CBC.cpp",
+              "RelativeToolTip": "LBC\\LBC_CBC.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T08:39:10.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LBC_ECB.h",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_ECB.h",
+              "RelativeDocumentMoniker": "LBC\\LBC_ECB.h",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC_ECB.h",
+              "RelativeToolTip": "LBC\\LBC_ECB.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T09:30:59.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LBC.h",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC.h",
+              "RelativeDocumentMoniker": "LBC\\LBC.h",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\LBC.h",
+              "RelativeToolTip": "LBC\\LBC.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T08:39:31.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SM3.h",
+              "DocumentMoniker": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM3.h",
+              "RelativeDocumentMoniker": "LBC\\SM3.h",
+              "ToolTip": "D:\\Desktop\\\u5BC6\u7801\u6311\u6218\u8D5B\\LBC\\LBC\\SM3.h",
+              "RelativeToolTip": "LBC\\SM3.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T17:05:36.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
