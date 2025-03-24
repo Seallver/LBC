@@ -1,0 +1,2 @@
+- 此项目为文件加密软件MoonKey的C++源码
+- MoonKeysetup.exe为安装包
